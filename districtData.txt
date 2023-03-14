@@ -1,0 +1,195 @@
+1,Antoniuk,Bialystok
+2,Bacieczki,Bialystok
+3,Bema,Bialystok
+4,Bojary,Bialystok
+5,Centrum,Bialystok
+6,Dojlidy,Bialystok
+7,Dziesieciny I,Bialystok
+8,Dziesieciny II,Bialystok
+9,Jaroszowka,Bialystok
+10,Kamedulskie,Bialystok
+11,Kawaleryjskie,Bialystok
+12,Krywlany,Bialystok
+13,Ksieze Male,Bialystok
+14,Mickiewicza,Bialystok
+15,Mlyniec,Bialystok
+16,Nowe Miasto,Bialystok
+17,Piaski,Bialystok
+18,Pogodne,Bialystok
+19,Sienkiewicza,Bialystok
+20,Skorupy,Bialystok
+21,Slepy Brzeg,Bialystok
+22,Starosielce,Bialystok
+23,Sienkiewicza,Bialystok
+24,Zoliborz,Bialystok
+25,Bartodzieje,Bydgoszcz
+26,Bocianowo,Bydgoszcz
+27,Centrum,Bydgoszcz
+28,Czyzowice,Bydgoszcz
+29,Fordon,Bydgoszcz
+30,Jachcice,Bydgoszcz
+31,Jary,Bydgoszcz
+32,Kapuszciska,Bydgoszcz
+33,Kodrab,Bydgoszcz
+34,Krepiec,Bydgoszcz
+35,Kujawska,Bydgoszcz
+36,Lisi Ogon,Bydgoszcz
+37,Miedzyn,Bydgoszcz
+38,Niedzwiednik,Bydgoszcz
+39,Oplawiec,Bydgoszcz
+40,Piaski,Bydgoszcz
+41,Podjuchy,Bydgoszcz
+42,Prady,Bydgoszcz
+43,Szwederowo,Bydgoszcz
+44,Srodmiescie,Bydgoszcz
+45,Wzgorze Wolnosci,Bydgoszcz
+46,Wyzyny,Bydgoszcz
+47,Zawisza,Bydgoszcz
+48,Zolwin,Bydgoszcz
+49,Aniolki,Gdansk
+50,Bretowo,Gdansk
+51,Chelm,Gdansk
+52,Jasien,Gdansk
+53,Kokoszki,Gdansk
+54,Morena,Gdansk
+55,Oliwa,Gdansk
+56,Orunia,Gdansk
+57,Piecki-Migowo,Gdansk
+58,Przymorze Male,Gdansk
+59,Siedlce,Gdansk
+60,Suchanino,Gdansk
+61,Ujescisko-Lostowice,Gdansk
+62,VII Dwork,Gdansk
+63,Wrzeszcz Dolny,Gdansk
+64,Wrzeszcz Gorny,Gdansk
+65,Zaspa-Mlyniec,Gdansk
+66,Zabianka-Wejhera-Jelitkowo-Tysiaclecia,Gdansk
+67,Zelechowa,Gdansk
+68,Zlobek,Gdansk
+69,Srodmiescie,Gdansk
+70,Letnica,Gdansk
+71,Stogi,Gdansk
+72,Nowy Port,Gdansk
+73,Biezanow-Prokocim,Krakow
+74,Bronowice,Krakow
+75,Debniki,Krakow
+76,Krowodrza,Krakow
+77,Lagiewniki,Krakow
+78,Mistrzejowice,Krakow
+79,Nowa Huta,Krakow
+80,Podgorze Duchackie,Krakow
+81,Podgorze,Krakow
+82,Pradnik Bialy,Krakow
+83,Pradnik Czerwony,Krakow
+84,Swoszowice,Krakow
+85,Wzgorza Krzeslawickie,Krakow
+86,Zwierzyniec,Krakow
+87,Dworek,Krakow
+88,Baluty,Lodz
+89,Chojny,Lodz
+90,Gorna,Lodz
+91,Groblice,Lodz
+92,Julianow,Lodz
+93,Polesie,Lodz
+94,Polesie Wschod,Lodz
+95,Retkinia,Lodz
+96,Stare Polesie,Lodz
+97,Stoki,Lodz
+98,Teofilow,Lodz
+99,Widzew,Lodz
+100,Zachodnia,Lodz
+101,Srodmiescie,Lodz
+102,Wschod,Lodz
+103,Marysin Wawerski,Lodz
+104,Bronowice,Lublin
+105,Czechow,Lublin
+106,Czuby Poludniowe,Lublin
+107,Czuby Zachodnie,Lublin
+108,Czuby-Tatary,Lublin
+109,Felin Poludniowy,Lublin
+110,Feliniak,Lublin
+111,Kalineczka,Lublin
+112,Kalinowszczyzna,Lublin
+113,Koszary,Lublin
+114,Majdanek,Lublin
+115,Nadbystrzycka,Lublin
+116,Naleczowska Poludnie,Lublin
+117,Niezynka,Lublin
+118,Piaski,Lublin
+119,Ponikwoda,Lublin
+120,Rury,Lublin
+121,Slawin,Lublin
+122,Smorczew,Lublin
+123,Stare Miasto,Lublin
+124,Tatary,Lublin
+125,Weglin Poludniowy,Lublin
+126,Wrotkow,Lublin
+127,Antoninek-Zieliniec-Kobylepole,Poznan
+128,Chartowo,Poznan
+129,Grunwald Zachodni,Poznan
+130,Grunwald Poludniowy,Poznan
+131,Grunwald Wschodni,Poznan
+132,Jezyce,Poznan
+133,Kobylepole,Poznan
+134,Krzesiny,Poznan
+135,Lazarz,Poznan
+136,Morasko-Radojewo,Poznan
+137,Nowe Miasto,Poznan
+138,Podolany,Poznan
+139,Rataje,Poznan
+140,Smochowice,Poznan
+141,Stare Miasto,Poznan
+142,Stare Winogrady,Poznan
+143,Strzeszyn,Poznan
+144,Swiety Marcin-Jerzego,Poznan
+145,Wilda,Poznan
+146,Centrum,Szczecin
+147,Dabie,Szczecin
+148,Golecino,Szczecin
+149,Gumience,Szczecin
+150,Niebuszewo-Bolinko,Szczecin
+151,Niebuszewo,Szczecin
+152,Osow,Szczecin
+153,Pogodno,Szczecin
+154,Podjuchy,Szczecin
+155,Pomorzany,Szczecin
+156,Srodmiescie,Szczecin
+157,Swierczewo,Szczecin
+158,Wiezyczki,Szczecin
+159,Zachod,Szczecin
+160,Zelechowa,Szczecin
+161,Zydowce,Szczecin
+162,Biskupin-Sepolno-Dabie-Bartoszowice,Wroclaw
+163,Brochow,Wroclaw
+164,Fabryczna,Wroclaw
+165,Gaj,Wroclaw
+166,Gadow-Popowice Poludniowe,Wroclaw
+167,Grabiszyn-Grabiszynek,Wroclaw
+168,Karlowice-Rozanka,Wroclaw
+169,Kleczkow,Wroclaw
+170,Kowale,Wroclaw
+171,Kuzniki,Wroclaw
+172,Lesnica,Wroclaw
+173,Lozanow,Wroclaw
+174,Maslice,Wroclaw
+175,Muchobor Wielki,Wroclaw
+176,Nowy Dwor,Wroclaw
+177,Oporow,Wroclaw
+178,Osobowice-Redzin,Wroclaw
+179,Ostrow Tumski-Pomnik Bohaterow Getta,Wroclaw
+180,Plac Grunwaldzki-Lotnisko,Wroclaw
+181,Polanowice-Poswietne-Ligota,Wroclaw
+182,Powstancow Slaskich,Wroclaw
+183,Pracze Odrzanskie,Wroclaw
+184,Psie Pole-Zawidawie,Wroclaw
+185,Stare Miasto,Wroclaw
+186,Strachocin-Swojczyce,Wroclaw
+187,Srodmiescie-Polnoc,Wroclaw
+188,Srodmiescie-Zachod,Wroclaw
+189,Szczytniki-Komandoria,Wroclaw
+190,Wojszyce,Wroclaw
+191,Zacisze-Zalesie-Szczytniki,Wroclaw
+192,Zawidawie,Wroclaw
+193,Zgorzelisko,Wroclaw
+194,Zerniki,Wroclaw
+195,Zolkiewka,Wroclaw
