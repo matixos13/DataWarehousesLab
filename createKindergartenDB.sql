@@ -47,7 +47,7 @@ CREATE TABLE "KindergartenCareType" (
   "KindergartenCareTypeID" INT IDENTITY (1,1),
   "KindergartenID" INT NOT NULL REFERENCES "Kindergarten",
   "CareTypeID" INT NOT NULL REFERENCES "CareType",
-  "Price" INT,
+  "Price" FLOAT(2),
   PRIMARY KEY ("KindergartenCareTypeID")
 );
 
