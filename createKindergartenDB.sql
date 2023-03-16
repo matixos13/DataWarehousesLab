@@ -11,6 +11,7 @@ CREATE TABLE "District" (
   PRIMARY KEY ("DistrictID")
 );
 
+
 CREATE TABLE "Kindergarten" (
   "KindergartenID" INT IDENTITY (1,1),
   "Name" TEXT,
@@ -23,12 +24,16 @@ CREATE TABLE "Kindergarten" (
   PRIMARY KEY ("KindergartenID")
 );
 
+
 CREATE TABLE "Facility" (
   "FacilityID" INT IDENTITY (1,1),
-  "Name" TEXT,
+  "Name" VARCHAR(23) CHECK ("Name" IN ('Classrooms', 'Playgrounds', 'Nap rooms', 'Bathrooms', 'Kitchen',
+  'Library', 'Computer Lab', 'Art Studio', 'Music Room', 'Gymnasium', 'Outdoor learning area',
+  'Science Lab', 'Garden', 'Water Play Area', 'Sand Play Area')),
   "Description" TEXT,
   PRIMARY KEY ("FacilityID")
 );
+
 
 CREATE TABLE "KindergartenFacility" (
   "KindergartenID" INT NOT NULL REFERENCES "Kindergarten",
@@ -47,7 +52,7 @@ CREATE TABLE "KindergartenCareType" (
   "KindergartenCareTypeID" INT IDENTITY (1,1),
   "KindergartenID" INT NOT NULL REFERENCES "Kindergarten",
   "CareTypeID" INT NOT NULL REFERENCES "CareType",
-  "Price" FLOAT(2),
+  "Price" INT,
   PRIMARY KEY ("KindergartenCareTypeID")
 );
 
