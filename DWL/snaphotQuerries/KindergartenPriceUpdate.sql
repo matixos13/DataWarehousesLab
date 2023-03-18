@@ -1,0 +1,1 @@
+UPDATE "KindergartenCareType" SET "Price"="Price"*1.05;
