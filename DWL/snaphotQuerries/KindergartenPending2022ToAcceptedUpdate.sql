@@ -30,5 +30,5 @@ INSERT INTO "KindergartenCareType" VALUES
 (1002, 4, 700);
 
 INSERT INTO "Submission" VALUES
-(1104248,2022,4001,0,'preschooler','accepted'),
-(1104249,2022,4005,0,'preschooler','accepted');
+(1104248,2022,4001,0,'preschooler','pending'),
+(1104249,2022,4005,0,'preschooler','pending');
