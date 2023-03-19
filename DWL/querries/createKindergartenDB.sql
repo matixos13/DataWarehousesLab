@@ -1,3 +1,5 @@
+CREATE DATABASE Kindergarten;
+
 CREATE TABLE "KindergartenType" (
   "KindergartenTypeID" INT IDENTITY (1,1),
   "Name" VARCHAR(20) CHECK ("Name" IN ('public','private','language-focused','Montessori-style','religious-based')),
